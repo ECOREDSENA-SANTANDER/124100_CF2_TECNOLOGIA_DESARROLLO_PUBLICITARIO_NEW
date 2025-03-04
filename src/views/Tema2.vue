@@ -267,7 +267,7 @@
 
         .col-lg-6
           .titulo-sexto.color-secundario
-            h5 Tabla 2. 
+            h5 Figura 2. 
             span Distribución de los hogares por estrato socioeconómico a nivel nacional 
           img(src='@/assets/curso/temas/tema2/tabla2.svg', alt='El gráfico muestra la distribución de hogares por estrato socioeconómico a nivel nacional, indicando que la mayoría de los hogares se encuentran en los estratos 2 y 3. Específicamente, el 44.2% de los hogares pertenece al estrato 2, seguido del 27.1% en el estrato 3. Los estratos 1 y 4 representan el 22.3% y 6.3% de los hogares, respectivamente, mientras que los estratos 5 y 6 tienen una menor representación, con 1.9% y 1.2% de los hogares. En términos de millones de hogares, esto se refleja en una mayor concentración en los estratos medios y bajo ')
           figcaption Fuente: DNP (2020)
@@ -294,7 +294,7 @@
             p Es importante aclarar que esta cifra es aproximada, pero proporciona un dato muy cercano a la realidad, lo que permite tomar decisiones y crear estrategias de una forma más confiable para la empresa. Este mismo método se puede aplicar a los demás segmentos que se verán a continuación:
           .col-lg-6 
             .titulo-sexto.color-secundario
-              h5 Tabla 3. 
+              h5 Tabla 2. 
               span Ejemplo poblacional
             img(src='@/assets/curso/temas/tema2/tabla3.svg', alt='La tabla de población de Bogotá, D.C. en 2020 muestra un total de 7.743.955 personas, con 3.707.838 hombres y 4.036.117 mujeres, desglosada por grupos de edad en intervalos de cinco años. Destacan los grupos de 20-24 años con 711.590 personas (354.946 hombres y 356.644 mujeres) y de 25-29 años con 749.246 personas (373.077 hombres y 376.169 mujeres). Estos datos proporcionan una visión detallada de la distribución etaria y de género en la ciudad, siendo notable la mayor población en los rangos de edad joven-adulta. ')
             figcaption Fuente: DNP (2020)

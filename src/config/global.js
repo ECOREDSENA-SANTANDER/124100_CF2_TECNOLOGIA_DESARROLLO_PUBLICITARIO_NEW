@@ -119,7 +119,7 @@ export default {
     {
       referencia:
         'DANE. (s. f.). Proyecciones de Población. Consultado el 21 de mayo de 2019',
-      link: 'https://cutt.ly/UyIgKPo ',
+      link: '',
     },
     {
       referencia:
@@ -138,12 +138,12 @@ export default {
     {
       referencia:
         'Real Academia Española. (2019). Diccionario de la lengua española (edición del tricentenario).',
-      link: 'https://cutt.ly/QyIgjkj',
+      link: '',
     },
     {
       referencia:
         'Velásquez, L. F. (2020, 28 de enero). 8 tipos de personalidad, Resúmenes de Derecho. Docsity.',
-      link: 'https://cutt.ly/WyIhy9m ',
+      link: '',
     },
     {
       referencia:
@@ -203,7 +203,7 @@ export default {
     },
     {
       tema: '1. El <i>brief</i>.',
-      referencia: 'Modelo <i>brief</i> de campaña táctica. ',
+      referencia: '<i>Brief</i> campaña táctica. ',
       tipo: 'Documento PDF  ',
       link: 'https://es.scribd.com/document/511165411/Brief-campan-a-ta-ctica ',
     },
